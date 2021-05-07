@@ -1,10 +1,10 @@
 const axios = require('axios')
 
 
-const iftttWebhookKey = 'gbnRBgvVWIbPNdp8zumwTBWKKf_LDeQNAQ6N65saW9b' // Replace value here
-const iftttWebhookName = 'notify' // Replace value here
-const districtId = '297'; // Replace value here
-const yourAge = '56'  // Replace value here
+const iftttWebhookKey = '<IFTTT-KEY>' // Replace value here
+const iftttWebhookName = '<IFTTT-WEBHOOK-NAME>' // Replace value here
+const districtId = '<DISTRICT-ID>'; // Replace value here
+const yourAge = '<YOUR-AGE>'  // Replace value here
 
 
 const intervalInMs = 600000; // 15 mins interval (in milliseconds)
